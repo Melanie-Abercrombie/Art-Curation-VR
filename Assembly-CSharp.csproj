@@ -294,6 +294,7 @@
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
+     <Compile Include="Assets\PlayerManager.cs" />
      <Compile Include="Assets\Samples\Scripts\HandPose.cs" />
      <Compile Include="Assets\Samples\Scripts\VelocityTracker.cs" />
      <Compile Include="Assets\Scripts\GrabberControls.cs" />
