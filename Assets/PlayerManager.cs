@@ -7,6 +7,7 @@ using System;
 public class PlayerManager : MonoBehaviour {
 
     public GameObject _Inventory;  //reference object to be rotated
+    public GameObject _LHand;
     Vector2 thumbstick;
 
     List<GameObject> sculptures;
@@ -35,7 +36,7 @@ public class PlayerManager : MonoBehaviour {
         sculptures = GetComponent<MenuManager>().Sculptures;
         for (int i = 0; i < sculptures.Count; i++)
         {
-           
+           //populate 
         }
     }
 

@@ -13,6 +13,7 @@ public class RaycastGrabber : MonoBehaviour {
 	void Update () {
         RaycastHit hit;
         float distance;
+
         //Debug Raycast in the Editor
         Vector3 forward = transform.TransformDirection(Vector3.forward) * 50;
         Debug.DrawRay(transform.position, forward, Color.cyan);
