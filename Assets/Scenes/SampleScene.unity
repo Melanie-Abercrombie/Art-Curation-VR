@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 295422951}
   - component: {fileID: 295422950}
   - component: {fileID: 295422957}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Sculpture
   m_TagString: FloorArt
   m_Icon: {fileID: 0}
@@ -556,7 +556,7 @@ GameObject:
   - component: {fileID: 1236487233}
   - component: {fileID: 1236487232}
   - component: {fileID: 1236487231}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Painting
   m_TagString: WallArt
   m_Icon: {fileID: 0}
@@ -788,8 +788,8 @@ GameObject:
   - component: {fileID: 1473086933}
   - component: {fileID: 1473086932}
   - component: {fileID: 1473086931}
-  - component: {fileID: 1473086930}
   - component: {fileID: 1473086929}
+  - component: {fileID: 1473086930}
   m_Layer: 0
   m_Name: RightHandAnchor
   m_TagString: Untagged
@@ -821,8 +821,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1473086924}
   - component: {fileID: 1473086942}
-  - component: {fileID: 1473086941}
   - component: {fileID: 1473086938}
+  - component: {fileID: 1473086941}
   - component: {fileID: 1473086937}
   - component: {fileID: 1473086936}
   m_Layer: 0
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd425c2d06f39bf4899d07c05d0f10eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grabBegin: 0.55
+  grabBegin: -7.25
   grabEnd: 0.35
   m_parentHeldObject: 0
   m_gripTransform: {fileID: 1473086924}
