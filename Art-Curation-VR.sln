@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art-Curation-VR", "Art-Curation-VR.csproj", "{C0232598-9547-B38D-1689-174A173E275F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art-Curation-VR", "Art-Curation-VR.csproj", "{C0232598-9547-B38D-1689-174A173E275F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art-Curation-VR.Editor", "Art-Curation-VR.Editor.csproj", "{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art-Curation-VR.Editor", "Art-Curation-VR.Editor.csproj", "{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art-Curation-VR.Editor", "Art-Curation-VR.Editor.csproj", "{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art-Curation-VR.Editor", "Art-Curation-VR.Editor.csproj", "{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}"
 EndProject
@@ -17,6 +23,22 @@ Global
 		{C0232598-9547-B38D-1689-174A173E275F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0232598-9547-B38D-1689-174A173E275F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0232598-9547-B38D-1689-174A173E275F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0232598-9547-B38D-1689-174A173E275F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0232598-9547-B38D-1689-174A173E275F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0232598-9547-B38D-1689-174A173E275F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0232598-9547-B38D-1689-174A173E275F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB0B97B4-47E9-A9CD-0C3A-8CD863F35106}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -24,8 +46,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4A6D9205-EB32-4740-82A3-11F11A8250DA}
 	EndGlobalSection
 EndGlobal
